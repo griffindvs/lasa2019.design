@@ -11,9 +11,10 @@ body {
 }
 
 hr {
-  max-width: 50px;
+  max-width: 100%;
   border-width: 3px;
   border-color: $primary;
+  margin-left: 0px;
 }
 
 hr.light {
@@ -118,11 +119,13 @@ body {
 }
 
 .typeLink {
-  background-image: none;
+  background-image: url("../img/TypeLink.png");
+  background-size: cover;
 }
 
 .siteLink {
-  background-image: none;
+  background-image: url("../img/SiteLink.png");
+  background-size: cover;
 }
 
 .homeLinks {

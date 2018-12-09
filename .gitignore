@@ -6,3 +6,4 @@
 public/_site
 public/.sass-cache
 public/vendor/bundle
+Gemfile.lock
