@@ -1,7 +1,7 @@
 # [LASA 2019 Design](https://lasa2019.design)
 
 ## About
-Developed by [Griffin Davis](https://griffindvs.com) [LASA Class of 2019](https://lasa2019.com).
+Developed by [Griffin Davis](https://griffindvs.com) for the [LASA Class of 2019](https://lasa2019.com).
 
 This site is built with [Jekyll](https://jekyllrb.com/), [Bootstrap](http://getbootstrap.com/), and [Sass](https://sass-lang.com/). It is hosted on [Google Firebase](https://firebase.google.com/).
 
