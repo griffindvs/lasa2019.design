@@ -1,4 +1,4 @@
-# [LASA 2019 Design](https://lasa2019.design)
+# LASA 2019 Design
 
 ## About
 Developed by [Griffin Davis](https://griffindvs.com) for the [LASA Class of 2019](https://lasa2019.com).
